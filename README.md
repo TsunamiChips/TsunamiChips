@@ -1,7 +1,7 @@
 ### Hi there, I'm Dale - aka [TsunamiChips][website] 👋
 
 ## I'm a digital marketer & designer. Currently exploring the UI/UX design side of the world!
-- 🔭 I’m currently working on in digital marketing [Resume][website]!
+- 🔭 I’m currently working on in digital marketing - [Resume][website]!
 - 🌱 I’m currently learning everything (or trying to at least) 🤣
 - 👯 I’m looking to learn from others if keen
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop a good understanding of the community
