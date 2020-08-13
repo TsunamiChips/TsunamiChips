@@ -17,7 +17,7 @@
 <br />
 <br />
 
-[website]: dalebadenhorst.epizy.com/
+[website]: http://dalebadenhorst.epizy.com/
 [twitter]: https://twitter.com/dale_badenhorst
 [youtube]: https://www.youtube.com/channel/UCa2c7Om6uPLOEPLtkB69G3Q?view_as=subscriber
 [linkedin]: https://linkedin.com/in/perspectivedesigner
