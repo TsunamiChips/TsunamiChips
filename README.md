@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Dale - aka [TsunamiChips][website] 👋
 
 ## I'm a digital marketer & designer. Currently exploring the UI/UX design side of the world!
