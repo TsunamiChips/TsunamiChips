@@ -18,24 +18,8 @@
 <br />
 <br />
 
-[website]: http://dalebadenhorst.epizy.com/
+[website]: https://dalebadenhorst.co.za/
 [twitter]: https://twitter.com/dale_badenhorst
 [youtube]: https://www.youtube.com/channel/UCa2c7Om6uPLOEPLtkB69G3Q?view_as=subscriber
 [linkedin]: https://linkedin.com/in/perspectivedesigner
-[behance]: https://www.behance.net/dalebadenhorstdesign
-
-
-<!--
-**TsunamiChips/TsunamiChips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[behance]: https://www.behance.net/tsunamichips
