@@ -2,10 +2,10 @@
 
 ## I'm a digital marketer & designer. Currently exploring the UI/UX design side of the world!
 - 🔭 I’m currently working in digital marketing - [Resume][website]!
-- 🌱 I’m currently learning everything (or trying to at least) 🤣
-- 👯 I’m looking to learn from others (if they are keen to mentor)
+- 🌱 I’m currently learning HTML, CSS and JS. Getting into React.
+- 👯 I’m looking to learn from any source that is available.
 - 🥅 2020 Goals: Contribute more to Open Source projects and develop a good understanding of the community
-- ⚡ Fun fact: My hobbies include bouldering, hiking and finding new food spots.
+- ⚡ Fun fact: My hobbies include bouldering, hiking and finding new culinary spots.
 
 ### Connect with me:
 
