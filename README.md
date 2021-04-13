@@ -1,8 +1,8 @@
 ## Hi there, I'm Dale - aka [TsunamiChips][website] 👋
 
-### I'm a digital marketer & designer. Currently exploring the UI/UX design side of the world!
+### I'm a digital marketer & designer. Currently exploring the hacking side of the world!
 - 🔭 I’m currently working in digital marketing - [Resume][website]!
-- 🌱 I’m currently learning HTML, CSS and JS. Getting into React.
+- 🌱 I’m currently learning HTML, CSS and JS. Getting into Penetration testing.
 - 👯 I’m looking to learn from any source that is available.
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop a good understanding of the community
 - ⚡ Fun fact: My hobbies include bouldering, hiking and finding new culinary spots.
@@ -40,7 +40,7 @@
 <br />
 
 [website]: https://dalebadenhorst.co.za/
-[twitter]: https://twitter.com/dale_badenhorst
+[twitter]: https://twitter.com/tsunamichips
 [youtube]: https://www.youtube.com/channel/UCa2c7Om6uPLOEPLtkB69G3Q?view_as=subscriber
 [linkedin]: https://linkedin.com/in/perspectivedesigner
 [behance]: https://www.behance.net/tsunamichips
