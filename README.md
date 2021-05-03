@@ -1,6 +1,6 @@
 ## Hi there, I'm Dale - aka [TsunamiChips][website] 👋
 
-### I'm a digital marketer & designer. Currently exploring the hacking side of the world!
+### I'm a digital marketer & designer. Currently exploring the penetration testing!
 - 🔭 I’m currently working in digital marketing - [Resume][website]!
 - 🌱 I’m currently learning HTML, CSS and JS. Getting into Penetration testing.
 - 👯 I’m looking to learn from any source that is available.
