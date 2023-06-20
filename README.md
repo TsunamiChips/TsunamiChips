@@ -1,10 +1,10 @@
 ## Hi there, I'm Dale - aka [TsunamiChips][website] 👋
 
 ### I'm a digital marketer & designer. Currently exploring penetration testing!
-- 🔭 I’m currently working in digital marketing - [Resume][website]!
-- 🌱 I’m currently learning HTML, CSS and JS. Getting into Penetration testing.
+- 🔭 I’m currently working in digital marketing.
+- 🌱 I’m currently learning bash. Getting into Penetration testing.
 - 👯 I’m looking to learn from any source that is available.
-- 🥅 2021 Goals: Contribute more to Open Source projects and develop a good understanding of the community
+- 🥅 Goals: Cybersecurity
 - ⚡ Fun fact: My hobbies include bouldering, hiking and finding new culinary spots.
 
 <br>
