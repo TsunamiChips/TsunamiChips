@@ -42,5 +42,5 @@
 [website]: https://dalebadenhorst.co.za/
 [twitter]: https://twitter.com/tsunamichips
 [youtube]: https://www.youtube.com/channel/UCa2c7Om6uPLOEPLtkB69G3Q?view_as=subscriber
-[linkedin]: https://linkedin.com/in/perspectivedesigner
+[linkedin]: https://www.linkedin.com/in/dale-badenhorst/
 [behance]: https://www.behance.net/tsunamichips
